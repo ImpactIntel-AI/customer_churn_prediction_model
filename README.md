@@ -69,3 +69,20 @@ High customer drop-off affects growth and sustainability. By analyzing user beha
    ```bash
    git clone https://github.com/ImpactIntel-AI/drop-off-analysis.git
    cd drop-off-analysis
+
+   Launch the Jupyter notebook
+
+bash
+Copy code
+jupyter notebook
+
+
+✅ Status
+✔️ Completed – Open to improvements and feedback
+📌 Future Work – Deploy model via Flask / Streamlit for web-based demo
+
+
+🤝 Connect With Me
+LinkedIn
+GitHub Portfolio
+Medium (Coming soon)
