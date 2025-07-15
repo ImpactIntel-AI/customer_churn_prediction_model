@@ -23,7 +23,7 @@ High customer drop-off affects growth and sustainability. By analyzing user beha
 
 ---
 
-## 🔧 Tools & Technologies Used
+## Tools & Technologies Used
 
 - **Language:** Python  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
@@ -63,7 +63,7 @@ High customer drop-off affects growth and sustainability. By analyzing user beha
 - Machine learning can help forecast behavioral outcomes in real-world settings.
 
 ---
-## Model Performance (Sample)
+## Model Performance
 
 - Accuracy: 80%  
 - Precision: 83%  
@@ -72,6 +72,15 @@ High customer drop-off affects growth and sustainability. By analyzing user beha
   1. Monthly Charges 
   2. Tenure 
   3. Total Charges
+ 
+  ### 🧮 Confusion Matrix Breakdown
+
+|              | Predicted: Stay | Predicted: Leave |
+|--------------|------------------|------------------|
+| **Actual: Stay** | ✅ 944 correct  | ❌ 92 wrong     |
+| **Actual: Leave** | ❌ 192 wrong   | ✅ 181 correct   |
+
+> 🤖 The model correctly predicted 80% of the cases — the robot was right most of the time!
 
 ## How to Run This Project
 
