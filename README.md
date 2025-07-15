@@ -26,7 +26,8 @@ High customer drop-off affects growth and sustainability. By analyzing user beha
 ## 🔧 Tools & Technologies Used
 
 - **Language:** Python  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Machine Learning Models:** Random Forest Classifier  
 - **IDE:** Jupyter Notebook  
 - **Version Control:** Git/GitHub
 
@@ -37,7 +38,7 @@ High customer drop-off affects growth and sustainability. By analyzing user beha
 1. **Data Cleaning** – Handled missing values, standardized formatting  
 2. **Exploratory Data Analysis (EDA)** – Identified key trends and correlations  
 3. **Feature Engineering** – Created meaningful variables for prediction  
-4. **Modeling** – Applied classification algorithms (e.g., Logistic Regression, Random Forest)  
+4. **Modeling** – Built and trained a Random Forest Classifier to predict customer drop-off, achieving strong performance and interpretable feature importance rankings.  
 5. **Evaluation** – Assessed model accuracy and explained key metrics  
 6. **Insights & Recommendations** – Summarized findings and business implications
 
@@ -62,6 +63,15 @@ High customer drop-off affects growth and sustainability. By analyzing user beha
 - Machine learning can help forecast behavioral outcomes in real-world settings.
 
 ---
+## Model Performance (Sample)
+
+- Accuracy: 80%  
+- Precision: 83%  
+- Recall: 91%  
+- Top 3 important features in predicting customer churn:
+  1. Monthly Charges 
+  2. Tenure 
+  3. Total Charges
 
 ## How to Run This Project
 
