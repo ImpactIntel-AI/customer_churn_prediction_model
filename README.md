@@ -72,17 +72,14 @@ High customer drop-off affects growth and sustainability. By analyzing user beha
 
    Launch the Jupyter notebook
 
-bash
-Copy code
-jupyter notebook
 
 
 ✅ Status
+
 ✔️ Completed – Open to improvements and feedback
+
 📌 Future Work – Deploy model via Flask / Streamlit for web-based demo
 
 
 🤝 Connect With Me
-LinkedIn
-GitHub Portfolio
-Medium (Coming soon)
+LinkedIn - www.linkedin.com/in/stephanie-savai-pmp-meal-dpro-mph-5466b51b5
